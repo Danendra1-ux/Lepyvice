@@ -1,3 +1,5 @@
 # Lepyvice
 Lepyvice (Platform Database Servis Laptop)
 Proyek ini adalah pengembangan platform berbasis web yang digunakan untuk membantu pendataan servis laptop. Tujuan utamanya adalah mempermudah teknisi dalam mencatat, mengelola, dan menelusuri data perbaikan laptop secara efisien, guna menghindari kesalahan dalam antrean servis, pengelolaan spare part, dan riwayat perbaikan. Aplikasi ini dibangun menggunakan PHP dengan Bootstrap 5 sebagai framework front-end, serta MySQL sebagai sistem basis data, yang dihubungkan melalui XAMPP untuk hosting lokal. Fitur utama mencakup operasi CRUD untuk pengelolaan data pelanggan dan perbaikan, serta tampilan antarmuka yang sedang dikembangkan agar lebih user-friendly.
+
+Link Design UI: https://www.figma.com/file/vgao9Nlr8oLsOyhuRwiSyb/Web-design-sisdat-FIX?type=design&node-id=0%3A1&t=DmoftHrosf9K8Sfn-1
